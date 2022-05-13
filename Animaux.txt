@@ -1,0 +1,6 @@
+Martial Snoto		Dog	2 ans
+Ahmad	Garfield 	Cat	10 ans
+Ahmad	Rex		Dog 	2 ans
+Thanh 	Orange		Lizard 	1 ans
+Oussama	Rouge		Cat 	3 ans
+Phuong 	Bin 		Tortue 	15 ans 
